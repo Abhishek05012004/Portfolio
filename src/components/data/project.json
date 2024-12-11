@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "E-commerce",
+    "imageSrc": "assets/hero/E-commerce.jpg",
+    "description": "This is a project made with complete React js and Tailwind CSS.",
+    "demo": "https://shopify-aj.netlify.app/",
+    "source": "https://github.com/Abhishek05012004/E-commerce"
+  },
+  {
+    "key": 2,
+    "title": "Book Store App",
+    "imageSrc": "assets/hero/book.jpg",
+    "description": "React project for showcasing frontend skills.",
+    "demo": "https://book-store-two-sepia.vercel.app/",
+    "source": "https://github.com/Abhishek05012004/Book_store"
+  },
+  {
+    "key": 3,
+    "title": "Text-Utils",
+    "imageSrc": "assets/hero/text-utils.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://text-utils-two-theta.vercel.app/",
+    "source": "https://github.com/Abhishek05012004/text_utils"
+  }
+]
