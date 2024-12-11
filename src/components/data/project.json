@@ -9,11 +9,11 @@
   },
   {
     "key": 2,
-    "title": "Book Store",
+    "title": "Book-Store",
     "imageSrc": "assets/hero/book.jpg",
     "description": "React project for showcasing frontend skills.",
-    "demo": "https://book-store-two-sepia.vercel.app/",
-    "source": "https://github.com/Abhishek05012004/Book_store"
+    "demo": "https://book-store7.netlify.app/",
+    "source": "https://github.com/Abhishek05012004/BookStore"
   },
   {
     "key": 3,
